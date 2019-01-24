@@ -31,7 +31,7 @@ a {
 }
 
 a:hover {
-  color: rgb(26, 26, 26);
+  color: rgb(255, 255, 255);
 }
 
 h1,
@@ -311,9 +311,11 @@ header.masthead p {
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   color: #fff;
   background-color: rgb(26, 26, 26) !important;
+  outline: none;
 }
 
 .btn-primary:active, .btn-primary:focus {
   -webkit-box-shadow: 0 0 0 0.2rem rgb(26, 26, 26) !important;
   box-shadow: 0 0 0 0.2rem rgb(26, 26, 26) !important;
+  outline: none;
 }
