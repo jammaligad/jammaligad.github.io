@@ -1,0 +1,6 @@
+.progress-vertical {
+    transform: rotate(-90deg);
+    width: 100px;
+    margin-left: auto; 
+    margin-right:auto;
+}
